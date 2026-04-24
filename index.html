@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>EOI – English Flashcards</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <!-- ===== NAV ===== -->
+  <nav class="navbar">
+    <div class="nav-brand" id="nav-brand">
+      <span class="nav-logo">🇬🇧</span>
+      <span>EOI Flashcards</span>
+    </div>
+    <div class="nav-links">
+      <button class="nav-btn active" data-view="dashboard">Dashboard</button>
+      <button class="nav-btn" data-view="stats">Estadísticas</button>
+    </div>
+  </nav>
+
+  <!-- ===== DASHBOARD ===== -->
+  <section id="view-dashboard" class="view active">
+    <div class="container">
+      <header class="page-header">
+        <h1>Elige un topic para repasar</h1>
+        <p class="subtitle">Selecciona un tema y pon a prueba tu vocabulario</p>
+      </header>
+      <div id="topic-grid" class="topic-grid"></div>
+    </div>
+  </section>
+
+  <!-- ===== MODAL DE CONFIGURACIÓN DE SESIÓN ===== -->
+  <div id="session-modal" class="modal-overlay hidden">
+    <div class="modal">
+      <button class="modal-close" id="modal-close">✕</button>
+      <h2 id="modal-title">Repasar: <span id="modal-topic-name"></span></h2>
+      <p class="modal-subtitle" id="modal-count"></p>
+
+      <div class="mode-selector">
+        <p class="mode-label">¿Cómo quieres ver las tarjetas?</p>
+        <div class="mode-cards">
+          <label class="mode-card" id="mode-a-card">
+            <input type="radio" name="mode" value="A" checked />
+            <div class="mode-icon">🇬🇧</div>
+            <div class="mode-title">Modo A</div>
+            <div class="mode-desc">Frente: término en inglés<br/>Reverso: traducción + definición</div>
+          </label>
+          <label class="mode-card" id="mode-b-card">
+            <input type="radio" name="mode" value="B" />
+            <div class="mode-icon">🇪🇸</div>
+            <div class="mode-title">Modo B</div>
+            <div class="mode-desc">Frente: traducción en español<br/>Reverso: término + definición</div>
+          </label>
+        </div>
+      </div>
+
+      <button class="btn-primary btn-start" id="btn-start-session">Empezar sesión →</button>
+    </div>
+  </div>
+
+  <!-- ===== ESTUDIO ===== -->
+  <section id="view-study" class="view hidden">
+    <div class="container">
+      <div class="study-header">
+        <button class="btn-back" id="btn-back">← Volver</button>
+        <div class="study-meta">
+          <span id="study-topic-label" class="study-topic-badge"></span>
+          <span id="study-mode-label" class="study-mode-badge"></span>
+        </div>
+        <div class="study-progress-wrap">
+          <span id="progress-text" class="progress-text">1 / 15</span>
+          <div class="progress-bar-outer">
+            <div id="progress-bar" class="progress-bar-inner"></div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Tarjeta -->
+      <div class="card-scene" id="card-scene">
+        <div class="card" id="flashcard">
+          <div class="card-face card-front">
+            <div class="card-badge" id="front-badge"></div>
+            <div class="card-main" id="front-main"></div>
+            <div class="card-type" id="front-type"></div>
+            <div class="card-hint">Haz clic para ver la respuesta</div>
+          </div>
+          <div class="card-face card-back">
+            <div class="card-badge" id="back-badge"></div>
+            <div class="card-back-answer" id="back-answer"></div>
+            <div class="card-definition" id="back-definition"></div>
+            <div class="card-examples" id="back-examples"></div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Botones de respuesta (ocultos hasta revelar) -->
+      <div class="answer-btns hidden" id="answer-btns">
+        <button class="btn-fail" id="btn-fail">✗ No lo sabía</button>
+        <button class="btn-pass" id="btn-pass">✓ Lo sabía</button>
+      </div>
+
+      <!-- Pantalla de fin de sesión -->
+      <div class="session-end hidden" id="session-end">
+        <div class="session-end-card">
+          <div class="session-end-icon">🎉</div>
+          <h2>¡Sesión completada!</h2>
+          <div class="session-end-stats" id="session-end-stats"></div>
+          <div class="session-end-actions">
+            <button class="btn-secondary" id="btn-repeat-failed">Repetir falladas</button>
+            <button class="btn-primary" id="btn-end-dashboard">Volver al dashboard</button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ===== ESTADÍSTICAS ===== -->
+  <section id="view-stats" class="view hidden">
+    <div class="container">
+      <header class="page-header">
+        <h1>Estadísticas</h1>
+        <p class="subtitle">Tu progreso acumulado por topic y por término</p>
+      </header>
+
+      <div id="stats-global" class="stats-global"></div>
+      <div id="stats-topics" class="stats-topics"></div>
+
+      <div class="stats-reset-wrap">
+        <button class="btn-danger" id="btn-reset-all">Resetear todas las estadísticas</button>
+      </div>
+    </div>
+  </section>
+
+  <script type="module" src="js/app.js"></script>
+</body>
+</html>
+

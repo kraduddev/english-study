@@ -1,0 +1,212 @@
+[
+  {
+    "id": "mon-001",
+    "term": "Budget",
+    "type": "noun",
+    "definition": "The money that is available to a person or organization and a plan of how it will be spent over a period of time.",
+    "translation": "Presupuesto",
+    "examples": [
+      "I have a limited budget.",
+      "The budget is a plan of how it will be spent over a period of time."
+    ],
+    "topic": "money",
+    "level": "C1",
+    "tags": ["formal", "finance"]
+  },
+  {
+    "id": "mon-002",
+    "term": "Grant",
+    "type": "noun",
+    "definition": "Money that is given by the government or another organization for a particular purpose, e.g. education.",
+    "translation": "Subvención / Beca",
+    "examples": [
+      "My sister received a grant for her research project.",
+      "The government gives a grant to help students."
+    ],
+    "topic": "money",
+    "level": "C1",
+    "tags": ["formal", "education"]
+  },
+  {
+    "id": "mon-003",
+    "term": "Loan",
+    "type": "noun",
+    "definition": "Money that a bank lends and somebody borrows.",
+    "translation": "Préstamo",
+    "examples": [
+      "I had to take out a loan to buy my new car.",
+      "Bank loans often have high interest rates."
+    ],
+    "topic": "money",
+    "level": "C1",
+    "tags": ["banking", "finance"]
+  },
+  {
+    "id": "mon-004",
+    "term": "Fee",
+    "type": "noun",
+    "definition": "An amount of money that you pay for professional advice or services, e.g. to a lawyer.",
+    "translation": "Honorarios / Cuota",
+    "examples": [
+      "The lawyer charged a high fee for his services.",
+      "You have to pay a fee for professional advice."
+    ],
+    "topic": "money",
+    "level": "C1",
+    "tags": ["formal", "professional"]
+  },
+  {
+    "id": "mon-005",
+    "term": "Fare",
+    "type": "noun",
+    "definition": "The money that you pay to travel by bus, plane, taxi, etc.",
+    "translation": "Tarifa / Precio del billete",
+    "examples": [
+      "The bus fare has gone up again.",
+      "He paid his taxi fare and left."
+    ],
+    "topic": "money",
+    "level": "C1",
+    "tags": ["travel", "transport"]
+  },
+  {
+    "id": "mon-006",
+    "term": "Fine",
+    "type": "noun",
+    "definition": "Money paid as punishment for breaking a law or rule.",
+    "translation": "Multa",
+    "examples": [
+      "I had to pay a fine for illegal parking.",
+      "The company was given a heavy fine for breaking environmental rules."
+    ],
+    "topic": "money",
+    "level": "C1",
+    "tags": ["legal", "punishment"]
+  },
+  {
+    "id": "mon-007",
+    "term": "Instalment",
+    "type": "noun",
+    "definition": "One of a number of payments that are made regularly until something has been paid for.",
+    "translation": "Plazo / Cuota",
+    "examples": [
+      "We are paying for the sofa in monthly instalments.",
+      "I’ve just paid the final instalment on my loan."
+    ],
+    "topic": "money",
+    "level": "C1",
+    "tags": ["finance", "shopping"]
+  },
+  {
+    "id": "mon-008",
+    "term": "Affluent",
+    "type": "adjective",
+    "definition": "Having a lot of money, property, or valuable possessions; wealthy.",
+    "translation": "Afluente / Rico",
+    "examples": [
+      "They live in an affluent neighborhood.",
+      "The country is becoming more affluent."
+    ],
+    "topic": "money",
+    "level": "C1",
+    "tags": ["formal", "literary"]
+  },
+  {
+    "id": "mon-009",
+    "term": "Loaded",
+    "type": "adjective",
+    "definition": "Having a lot of money; very rich (often used in negative sentences).",
+    "translation": "Forrado",
+    "examples": [
+      "Let her pay, she's loaded!",
+      "His parents are not very loaded."
+    ],
+    "topic": "money",
+    "level": "C1",
+    "tags": ["colloquial", "informal"]
+  },
+  {
+    "id": "mon-010",
+    "term": "Hard up",
+    "type": "adjective",
+    "definition": "Having very little money, especially for a short period of time.",
+    "translation": "Apurado / Mal de dinero",
+    "examples": [
+      "He was so hard up he couldn't afford to eat out at all.",
+      "I'm a bit hard up this month, so no cinema for me."
+    ],
+    "topic": "money",
+    "level": "C1",
+    "tags": ["colloquial", "informal"]
+  },
+  {
+    "id": "mon-011",
+    "term": "Broke",
+    "type": "adjective",
+    "definition": "Having no money (informal).",
+    "translation": "Sin blanca / Quebrado",
+    "examples": [
+      "I'm always broke by the end of the month.",
+      "I can't go out tonight, I'm flat broke."
+    ],
+    "topic": "money",
+    "level": "C1",
+    "tags": ["colloquial", "informal"]
+  },
+  {
+    "id": "mon-012",
+    "term": "Bucks",
+    "type": "noun",
+    "definition": "Slang term for dollars.",
+    "translation": "Pavos (Dólares)",
+    "examples": [
+      "I need five bucks for the subway.",
+      "It'll cost you twenty bucks."
+    ],
+    "topic": "money",
+    "level": "C1",
+    "tags": ["slang", "colloquial"]
+  },
+  {
+    "id": "mon-013",
+    "term": "Quid",
+    "type": "noun",
+    "definition": "Slang term for pounds.",
+    "translation": "Libras (coloquial)",
+    "examples": [
+      "It only cost me five quid.",
+      "I haven't got a quid on me."
+    ],
+    "topic": "money",
+    "level": "C1",
+    "tags": ["slang", "colloquial"]
+  },
+  {
+    "id": "mon-014",
+    "term": "Afford",
+    "type": "verb",
+    "definition": "To have enough money to be able to buy or do something.",
+    "translation": "Permitirse",
+    "examples": [
+      "House prices are rising and people can't afford to buy a home.",
+      "I can't afford a new car right now."
+    ],
+    "topic": "money",
+    "level": "C1",
+    "tags": ["common"]
+  },
+  {
+    "id": "mon-015",
+    "term": "Bankrupt",
+    "type": "adjective",
+    "definition": "Declared in law unable to pay outstanding debts.",
+    "translation": "En bancarrota / Quebrado",
+    "examples": [
+      "A lot of small businesses went bankrupt during the recession.",
+      "The company was declared bankrupt last year."
+    ],
+    "topic": "money",
+    "level": "C1",
+    "tags": ["legal", "business"]
+  }
+]
