@@ -9,6 +9,8 @@
 import { startStudySession } from './study.js';
 import { renderStats }        from './stats.js';
 
+const BUILD_MARKER = 'b710882-time-topic';
+
 /* ─── Registro de topics ──────────────────────────────────── */
 const TOPICS_REGISTRY = [
   { id: 'money', label: 'Money & Finance', icon: '💰', file: 'src/money.json' },
@@ -146,6 +148,7 @@ function openSessionModal(meta, cards) {
 
 /* ─── Init ────────────────────────────────────────────────── */
 async function init() {
+  console.info('[EOI build]', BUILD_MARKER);
   await loadTopics();
   renderDashboard();
 
