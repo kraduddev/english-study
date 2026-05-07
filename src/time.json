@@ -1,0 +1,262 @@
+[
+  {
+    "id": "time-001",
+    "term": "Waste time",
+    "type": "phrase",
+    "definition": "To use time badly or inefficiently instead of doing something useful.",
+    "translation": "Perder el tiempo",
+    "examples": [
+      "I waste a lot of time playing games and messaging on my computer instead of studying. [1]"
+    ],
+    "topic": "time",
+    "level": "C1",
+    "tags": ["verbs", "colloquial"]
+  },
+  {
+    "id": "time-002",
+    "term": "Save time",
+    "type": "phrase",
+    "definition": "To spend less time doing something than you normally would.",
+    "translation": "Ahorrar tiempo",
+    "examples": [
+      "If you take the motorway, you'll save time – it's much quicker than the local roads. [1]"
+    ],
+    "topic": "time",
+    "level": "C1",
+    "tags": ["verbs", "everyday"]
+  },
+  {
+    "id": "time-003",
+    "term": "Kill time",
+    "type": "phrase",
+    "definition": "To do something that keeps you busy while you are waiting for something else to happen.",
+    "translation": "Hacer tiempo / Matar el tiempo",
+    "examples": [
+      "I had three hours to wait for my flight, so I sat there doing sudoku puzzles to kill time. [1]"
+    ],
+    "topic": "time",
+    "level": "C1",
+    "tags": ["verbs", "informal"]
+  },
+  {
+    "id": "time-004",
+    "term": "Take your time",
+    "type": "phrase",
+    "definition": "To do something without hurrying.",
+    "translation": "Tomarse su tiempo / Sin prisas",
+    "examples": [
+      "There's no hurry, so take your time. [1]"
+    ],
+    "topic": "time",
+    "level": "C1",
+    "tags": ["verbs", "everyday"]
+  },
+  {
+    "id": "time-005",
+    "term": "Make up for lost time",
+    "type": "phrase",
+    "definition": "To do something quickly or very often because you wish you had done it earlier.",
+    "translation": "Recuperar el tiempo perdido",
+    "examples": [
+      "When my mother was young, she never had the chance to travel. Now she's retired and wants to make up for lost time, so she's booked a trip around the world. [1]"
+    ],
+    "topic": "time",
+    "level": "C1",
+    "tags": ["verbs", "idiom"]
+  },
+  {
+    "id": "time-006",
+    "term": "Give someone a hard time",
+    "type": "phrase",
+    "definition": "To deliberately make a situation difficult for someone or criticize them.",
+    "translation": "Hacer pasar un mal rato / Dar la lata",
+    "examples": [
+      "I'd better go home now. If I'm late again, Dad will give me a hard time. [1]"
+    ],
+    "topic": "time",
+    "level": "C1",
+    "tags": ["verbs", "informal"]
+  },
+  {
+    "id": "time-007",
+    "term": "Spare the time",
+    "type": "phrase",
+    "definition": "To find the time to do something, despite being busy.",
+    "translation": "Sacar tiempo / Tener tiempo libre",
+    "examples": [
+      "I would like to go camping this weekend, but my final exams are next week, so I can't spare the time. [1]"
+    ],
+    "topic": "time",
+    "level": "C1",
+    "tags": ["verbs", "formal"]
+  },
+  {
+    "id": "time-008",
+    "term": "Take up all my time",
+    "type": "phrase",
+    "definition": "To consume or occupy one's available time entirely.",
+    "translation": "Ocupar/Consumir todo mi tiempo",
+    "examples": [
+      "My children take up all my time – I never seem to get to read a book or watch a film! [1]"
+    ],
+    "topic": "time",
+    "level": "C1",
+    "tags": ["verbs", "everyday"]
+  },
+  {
+    "id": "time-009",
+    "term": "Have the time of your life",
+    "type": "phrase",
+    "definition": "To enjoy yourself very much, more than you ever have before.",
+    "translation": "Pasarlo de maravilla / Vivir la mejor experiencia de tu vida",
+    "examples": [
+      "New York's such a fantastic city! You're going to have the time of your life there. [1]"
+    ],
+    "topic": "time",
+    "level": "C1",
+    "tags": ["verbs", "informal"]
+  },
+  {
+    "id": "time-010",
+    "term": "Run out of time",
+    "type": "phrase",
+    "definition": "To have no more time available to finish something.",
+    "translation": "Quedarse sin tiempo",
+    "examples": [
+      "Let's not spend too long at the museum or we'll run out of time. [1]"
+    ],
+    "topic": "time",
+    "level": "C1",
+    "tags": ["verbs", "everyday"]
+  },
+  {
+    "id": "time-011",
+    "term": "Play for time",
+    "type": "phrase",
+    "definition": "To delay making a decision or doing something in order to gain advantage.",
+    "translation": "Ganar tiempo",
+    "examples": [
+      "They want us to sign the contract today, but I'm not sure about it. I think we should play for time. [1]"
+    ],
+    "topic": "time",
+    "level": "C1",
+    "tags": ["verbs", "business", "formal"]
+  },
+  {
+    "id": "time-012",
+    "term": "On time",
+    "type": "phrase",
+    "definition": "Punctual; arriving at the correct or arranged time.",
+    "translation": "A tiempo / Puntual",
+    "examples": [
+      "I'm really punctual, so I hate it when other people aren't on time. [1]"
+    ],
+    "topic": "time",
+    "level": "C1",
+    "tags": ["prepositional", "everyday"]
+  },
+  {
+    "id": "time-013",
+    "term": "Before my time",
+    "type": "phrase",
+    "definition": "Happening before you were born or before you were old enough to remember.",
+    "translation": "Antes de mi época",
+    "examples": [
+      "I've never heard of that singer. He must have been before my time. [1]"
+    ],
+    "topic": "time",
+    "level": "C1",
+    "tags": ["prepositional", "colloquial"]
+  },
+  {
+    "id": "time-014",
+    "term": "Time off",
+    "type": "noun",
+    "definition": "A period of time when you do not work due to illness or holidays.",
+    "translation": "Tiempo libre / Descanso (del trabajo)",
+    "examples": [
+      "She's been working too hard recently. She needs some time off. [1]"
+    ],
+    "topic": "time",
+    "level": "C1",
+    "tags": ["prepositional", "work"]
+  },
+  {
+    "id": "time-015",
+    "term": "Behind the times",
+    "type": "phrase",
+    "definition": "Old-fashioned in ideas, methods, or tastes.",
+    "translation": "Anticuado / Desfasado",
+    "examples": [
+      "My dad's a bit behind the times – he still thinks men should wear a suit and tie at work. [1]"
+    ],
+    "topic": "time",
+    "level": "C1",
+    "tags": ["prepositional", "idiom"]
+  },
+  {
+    "id": "time-016",
+    "term": "In no time",
+    "type": "phrase",
+    "definition": "Very quickly or very soon.",
+    "translation": "En un abrir y cerrar de ojos / En un instante",
+    "examples": [
+      "I thought it would take ages, but in fact I finished it in no time. [1]"
+    ],
+    "topic": "time",
+    "level": "C1",
+    "tags": ["prepositional", "idiom"]
+  },
+  {
+    "id": "time-017",
+    "term": "With time to spare",
+    "type": "phrase",
+    "definition": "Having finished or arrived earlier than necessary, leaving extra time.",
+    "translation": "Con tiempo de sobra",
+    "examples": [
+      "But in the end I got to the airport with time to spare. [1]"
+    ],
+    "topic": "time",
+    "level": "C1",
+    "tags": ["expression", "everyday"]
+  },
+  {
+    "id": "time-018",
+    "term": "Time on my hands",
+    "type": "phrase",
+    "definition": "Having nothing to do; an abundance of free time.",
+    "translation": "Tener tiempo libre / Estar desocupado",
+    "examples": [
+      "I've got time on my hands since I retired. [1]"
+    ],
+    "topic": "time",
+    "level": "C1",
+    "tags": ["expression", "idiom"]
+  },
+  {
+    "id": "time-019",
+    "term": "A matter of time",
+    "type": "phrase",
+    "definition": "Used when you think that something will inevitably happen in the future.",
+    "translation": "Cuestión de tiempo",
+    "examples": [
+      "It's only a matter of time. [1]"
+    ],
+    "topic": "time",
+    "level": "C1",
+    "tags": ["expression", "everyday"]
+  },
+  {
+    "id": "time-020",
+    "term": "Time-consuming",
+    "type": "adjective",
+    "definition": "Taking or needing a lot of time.",
+    "translation": "Que lleva/consume mucho tiempo",
+    "examples": [
+      "It's incredibly tedious and time-consuming. [1]"
+    ],
+    "topic": "time",
+    "level": "C1",
+    "tags": ["expression", "adjective", "formal"]
+  }
+]
