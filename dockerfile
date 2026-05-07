@@ -14,8 +14,10 @@ RUN printf 'server {\n\
     add_header Cache-Control "no-cache, no-store, must-revalidate";\n\
     add_header Pragma "no-cache";\n\
     add_header Expires "0";\n\
+    location ~* \\.(json|js|css|png|jpg|jpeg|gif|svg|ico|webp)$ {\n\
+        try_files $uri =404;\n\
+    }\n\
     location / {\n\
         try_files $uri $uri/ /index.html;\n\
     }\n\
 }\n' > /etc/nginx/conf.d/default.conf
-

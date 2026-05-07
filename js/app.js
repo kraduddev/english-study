@@ -23,11 +23,20 @@ export let allTopics = [];   // [{ meta, cards }]
 async function loadTopics() {
   const results = await Promise.allSettled(
     TOPICS_REGISTRY.map(async (meta) => {
-      const res   = await fetch(meta.file);
+      const url = new URL(`../${meta.file}`, import.meta.url);
+      const res = await fetch(url);
+      if (!res.ok) {
+        throw new Error(`HTTP ${res.status} al cargar ${url.pathname}`);
+      }
       const cards = await res.json();
       return { meta, cards };
     })
   );
+
+  results
+    .filter(r => r.status === 'rejected')
+    .forEach(({ reason }) => console.error('[topics] Error cargando topic:', reason));
+
   allTopics = results
     .filter(r => r.status === 'fulfilled')
     .map(r => r.value);
@@ -158,4 +167,3 @@ async function init() {
 }
 
 init();
-
