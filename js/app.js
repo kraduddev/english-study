@@ -12,6 +12,7 @@ import { renderStats }        from './stats.js';
 /* ─── Registro de topics ──────────────────────────────────── */
 const TOPICS_REGISTRY = [
   { id: 'money', label: 'Money & Finance', icon: '💰', file: 'src/money.json' },
+  { id: 'time', label: 'Expressions with time', icon: '⏳', file: 'src/time.json' },
   // { id: 'travel', label: 'Travel', icon: '✈️', file: 'src/travel.json' },
 ];
 
