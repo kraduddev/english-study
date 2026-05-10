@@ -1,0 +1,270 @@
+[
+  {
+    "id": "work-001",
+    "term": "Challenging",
+    "type": "adjective",
+    "definition": "Testing one's abilities in a way that keeps one interested.",
+    "translation": "Desafiante / Estimulante",
+    "examples": [
+      "My job as a divorce lawyer is very challenging.",
+      "It tests my abilities in a way that keeps me interested."
+    ],
+    "topic": "work",
+    "level": "C1",
+    "tags": ["adjectives", "positive"]
+  },
+  {
+    "id": "work-002",
+    "term": "Monotonous",
+    "type": "adjective",
+    "definition": "Boring because of always doing exactly the same thing every day.",
+    "translation": "Monótono",
+    "examples": [
+      "Working as a checkout assistant can be a bit monotonous and repetitive.",
+      "I have to do exactly the same thing every day."
+    ],
+    "topic": "work",
+    "level": "C1",
+    "tags": ["adjectives", "negative"]
+  },
+  {
+    "id": "work-003",
+    "term": "Rewarding",
+    "type": "adjective",
+    "definition": "Making you feel happy because it is useful and important.",
+    "translation": "Gratificante",
+    "examples": [
+      "I'm a primary school teacher. I find working with children very rewarding.",
+      "It makes me happy because it's useful and important."
+    ],
+    "topic": "work",
+    "level": "C1",
+    "tags": ["adjectives", "positive"]
+  },
+  {
+    "id": "work-004",
+    "term": "Motivating",
+    "type": "adjective",
+    "definition": "Making you feel enthusiastic and willing to work hard.",
+    "translation": "Motivador",
+    "examples": [
+      "I work in a small design company and my job's really motivating.",
+      "I never mind having to work overtime."
+    ],
+    "topic": "work",
+    "level": "C1",
+    "tags": ["adjectives", "positive"]
+  },
+  {
+    "id": "work-005",
+    "term": "Demanding",
+    "type": "adjective",
+    "definition": "Requiring a lot of time, energy, or attention, often with high pressure.",
+    "translation": "Exigente",
+    "examples": [
+      "Being a surgeon is very demanding.",
+      "It's very high pressure and you have to work long hours."
+    ],
+    "topic": "work",
+    "level": "C1",
+    "tags": ["adjectives", "strong"]
+  },
+  {
+    "id": "work-006",
+    "term": "Tedious",
+    "type": "adjective",
+    "definition": "Really boring and making you feel impatient.",
+    "translation": "Tedioso / Aburrido",
+    "examples": [
+      "I always wanted an exciting job, but sadly, mine is incredibly tedious.",
+      "It's really boring and it makes me feel impatient all the time."
+    ],
+    "topic": "work",
+    "level": "C1",
+    "tags": ["adjectives", "negative"]
+  },
+  {
+    "id": "work-007",
+    "term": "Dead-end",
+    "type": "adjective",
+    "definition": "A job with low wages and no hope of promotion.",
+    "translation": "Sin salida / Sin futuro",
+    "examples": [
+      "He's in a dead-end job in the local factory.",
+      "The wages are low and there's no hope of promotion."
+    ],
+    "topic": "work",
+    "level": "C1",
+    "tags": ["adjectives", "colloquial"]
+  },
+  {
+    "id": "work-008",
+    "term": "High-powered",
+    "type": "adjective",
+    "definition": "Important and coming with a lot of responsibility.",
+    "translation": "De alto nivel / De gran responsabilidad",
+    "examples": [
+      "She's got a very high-powered job in finance.",
+      "It's important and comes with a lot of responsibility."
+    ],
+    "topic": "work",
+    "level": "C1",
+    "tags": ["adjectives", "formal"]
+  },
+  {
+    "id": "work-009",
+    "term": "Career move",
+    "type": "noun",
+    "definition": "An action you take to progress in your career.",
+    "translation": "Movimiento profesional / Cambio de carrera",
+    "examples": [
+      "I'm hoping it'll be a good career move to go from publishing to advertising."
+    ],
+    "topic": "work",
+    "level": "C1",
+    "tags": ["collocations", "formal"]
+  },
+  {
+    "id": "work-010",
+    "term": "Job hunting",
+    "type": "noun",
+    "definition": "The activity of trying to find a job.",
+    "translation": "Búsqueda de empleo",
+    "examples": [
+      "I've been unemployed for six months now, so I spend most of my time job hunting."
+    ],
+    "topic": "work",
+    "level": "C1",
+    "tags": ["collocations", "everyday"]
+  },
+  {
+    "id": "work-011",
+    "term": "Career ladder",
+    "type": "noun",
+    "definition": "A series of jobs from the lower paid with less responsibility to the highest paid with the most responsibility within a company.",
+    "translation": "Escalafón profesional / Escala corporativa",
+    "examples": [
+      "I'm a junior doctor, and if I want to move up the career ladder, I need to work in several different hospitals and departments."
+    ],
+    "topic": "work",
+    "level": "C1",
+    "tags": ["collocations", "business"]
+  },
+  {
+    "id": "work-012",
+    "term": "Civil servants",
+    "type": "noun",
+    "definition": "People who work for government departments.",
+    "translation": "Funcionarios públicos",
+    "examples": [
+      "In Britain, people who work for government departments are called civil servants."
+    ],
+    "topic": "work",
+    "level": "C1",
+    "tags": ["collocations", "formal"]
+  },
+  {
+    "id": "work-013",
+    "term": "Fast track",
+    "type": "noun",
+    "definition": "A route or method which provides for more rapid results or promotion than usual.",
+    "translation": "Vía rápida / Promoción acelerada",
+    "examples": [
+      "In some careers, people with very good qualifications are put onto a fast track so they get promoted more quickly."
+    ],
+    "topic": "work",
+    "level": "C1",
+    "tags": ["collocations", "business"]
+  },
+  {
+    "id": "work-014",
+    "term": "Quit / Resign",
+    "type": "verb",
+    "definition": "To voluntarily leave a job or other position.",
+    "translation": "Renunciar / Dimitir",
+    "examples": [
+      "I've had enough of my job. I think I'm going to quit / resign."
+    ],
+    "topic": "work",
+    "level": "C1",
+    "tags": ["verbs", "everyday", "formal"]
+  },
+  {
+    "id": "work-015",
+    "term": "Laid off / Made redundant",
+    "type": "phrase",
+    "definition": "To lose your job because your employer no longer needs you.",
+    "translation": "Despedido (por causas objetivas o recortes)",
+    "examples": [
+      "400 workers have been laid off / made redundant."
+    ],
+    "topic": "work",
+    "level": "C1",
+    "tags": ["phrases", "formal"]
+  },
+  {
+    "id": "work-016",
+    "term": "Out of work",
+    "type": "phrase",
+    "definition": "Without a paid job; unemployed.",
+    "translation": "En el paro / Desempleado",
+    "examples": [
+      "He's been out of work for nearly six months."
+    ],
+    "topic": "work",
+    "level": "C1",
+    "tags": ["phrases", "everyday"]
+  },
+  {
+    "id": "work-017",
+    "term": "Off work",
+    "type": "phrase",
+    "definition": "Not working at a particular time, usually due to illness or holidays.",
+    "translation": "De baja / Ausente del trabajo",
+    "examples": [
+      "He's been off work for nearly six months."
+    ],
+    "topic": "work",
+    "level": "C1",
+    "tags": ["phrases", "everyday"]
+  },
+  {
+    "id": "work-018",
+    "term": "Sacked / Fired",
+    "type": "verb",
+    "definition": "To be removed from a job, usually for doing something wrong.",
+    "translation": "Despedido (por mal desempeño)",
+    "examples": [
+      "She was sacked / was fired for refusing to work on Sundays."
+    ],
+    "topic": "work",
+    "level": "C1",
+    "tags": ["verbs", "colloquial"]
+  },
+  {
+    "id": "work-019",
+    "term": "Get promoted",
+    "type": "phrase",
+    "definition": "To be given a more important job or rank in the organization that you work for.",
+    "translation": "Ser ascendido",
+    "examples": [
+      "Fantastic news! I'm going to get promoted!"
+    ],
+    "topic": "work",
+    "level": "C1",
+    "tags": ["phrases", "positive"]
+  },
+  {
+    "id": "work-020",
+    "term": "Perks / Benefits",
+    "type": "noun",
+    "definition": "An advantage or something extra, such as money or goods, that you are given because of your job.",
+    "translation": "Beneficios / Ventajas (laborales)",
+    "examples": [
+      "The salary's a bit low, but we have some great perks / benefits."
+    ],
+    "topic": "work",
+    "level": "C1",
+    "tags": ["noun", "business"]
+  }
+]

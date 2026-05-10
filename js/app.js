@@ -15,7 +15,8 @@ const BUILD_MARKER = 'b710882-time-topic';
 const TOPICS_REGISTRY = [
   { id: 'money', label: 'Money & Finance', icon: '💰', file: 'src/money.json' },
   { id: 'time', label: 'Expressions with time', icon: '⏳', file: 'src/time.json' },
-  { id: 'personality', label: 'Personality', icon: '⏳', file: 'src/personality.json' },
+  { id: 'personality', label: 'Personality', icon: '🙃', file: 'src/personality.json' },
+  { id: 'work', label: 'Work', icon: '⚒️', file: 'src/work.json' },
   // { id: 'travel', label: 'Travel', icon: '✈️', file: 'src/travel.json' },
 ];
 
