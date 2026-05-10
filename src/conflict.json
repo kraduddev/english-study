@@ -1,0 +1,386 @@
+[
+  {
+    "id": "cw-001",
+    "term": "Casualties",
+    "type": "noun",
+    "definition": "People who have been killed or injured in a war.",
+    "translation": "Bajas / Víctimas",
+    "examples": [
+      "Casualties are people who have been killed or injured in a war."
+    ],
+    "topic": "conflict and warfare",
+    "level": "C1",
+    "tags": ["people", "military", "formal"]
+  },
+  {
+    "id": "cw-002",
+    "term": "Refugees",
+    "type": "noun",
+    "definition": "People who are forced to leave their country or home because there is a war, or for political or religious reasons.",
+    "translation": "Refugiados",
+    "examples": [
+      "Refugees are people who are forced to leave their country or home because there is a war."
+    ],
+    "topic": "conflict and warfare",
+    "level": "C1",
+    "tags": ["people", "formal"]
+  },
+  {
+    "id": "cw-003",
+    "term": "Forces",
+    "type": "noun",
+    "definition": "A group of people who have been trained to protect others, usually with weapons, e.g. armed forces, security forces, peace-keeping forces.",
+    "translation": "Fuerzas (armadas / de seguridad)",
+    "examples": [
+      "Forces are a group of people who have been trained to protect others, usually with weapons."
+    ],
+    "topic": "conflict and warfare",
+    "level": "C1",
+    "tags": ["people", "military"]
+  },
+  {
+    "id": "cw-004",
+    "term": "Troops",
+    "type": "noun",
+    "definition": "Soldiers in large groups.",
+    "translation": "Tropas",
+    "examples": [
+      "Troops are soldiers in large groups."
+    ],
+    "topic": "conflict and warfare",
+    "level": "C1",
+    "tags": ["people", "military"]
+  },
+  {
+    "id": "cw-005",
+    "term": "Commander",
+    "type": "noun",
+    "definition": "An officer in charge of a military operation.",
+    "translation": "Comandante",
+    "examples": [
+      "A commander is an officer in charge of a military operation."
+    ],
+    "topic": "conflict and warfare",
+    "level": "C1",
+    "tags": ["people", "military"]
+  },
+  {
+    "id": "cw-006",
+    "term": "The wounded",
+    "type": "noun",
+    "definition": "People who have been injured by weapons.",
+    "translation": "Los heridos",
+    "examples": [
+      "The wounded are people who have been injured by weapons."
+    ],
+    "topic": "conflict and warfare",
+    "level": "C1",
+    "tags": ["people", "military"]
+  },
+  {
+    "id": "cw-007",
+    "term": "Civilians",
+    "type": "noun",
+    "definition": "People who are not in the army, navy, or airforce.",
+    "translation": "Civiles",
+    "examples": [
+      "Civilians are people who are not in the army, navy, or airforce."
+    ],
+    "topic": "conflict and warfare",
+    "level": "C1",
+    "tags": ["people", "formal"]
+  },
+  {
+    "id": "cw-008",
+    "term": "Snipers",
+    "type": "noun",
+    "definition": "People who shoot at others from a hidden position.",
+    "translation": "Francotiradores",
+    "examples": [
+      "Snipers are people who shoot at others from a hidden position."
+    ],
+    "topic": "conflict and warfare",
+    "level": "C1",
+    "tags": ["people", "military"]
+  },
+  {
+    "id": "cw-009",
+    "term": "Survivors",
+    "type": "noun",
+    "definition": "People who have managed to stay alive in a war.",
+    "translation": "Supervivientes",
+    "examples": [
+      "Survivors are people who have managed to stay alive in a war."
+    ],
+    "topic": "conflict and warfare",
+    "level": "C1",
+    "tags": ["people", "formal"]
+  },
+  {
+    "id": "cw-010",
+    "term": "Ally",
+    "type": "noun",
+    "definition": "In time of war, a country that has agreed to help and support another country.",
+    "translation": "Aliado",
+    "examples": [
+      "An ally is in time of war, a country that has agreed to help and support another country."
+    ],
+    "topic": "conflict and warfare",
+    "level": "C1",
+    "tags": ["people", "military", "formal"]
+  },
+  {
+    "id": "cw-011",
+    "term": "Rebellion",
+    "type": "noun",
+    "definition": "An attempt by some of the people in a country to change their government, using violence.",
+    "translation": "Rebelión",
+    "examples": [
+      "A rebellion is an attempt by some of the people in a country to change their government, using violence."
+    ],
+    "topic": "conflict and warfare",
+    "level": "C1",
+    "tags": ["events", "formal"]
+  },
+  {
+    "id": "cw-012",
+    "term": "Coup",
+    "type": "noun",
+    "definition": "A sudden change of government that is illegal and often violent.",
+    "translation": "Golpe de estado",
+    "examples": [
+      "A coup is a sudden change of government that is illegal and often violent."
+    ],
+    "topic": "conflict and warfare",
+    "level": "C1",
+    "tags": ["events", "formal"]
+  },
+  {
+    "id": "cw-013",
+    "term": "Ceasefire",
+    "type": "noun",
+    "definition": "When two armies agree to stop fighting temporarily.",
+    "translation": "Alto el fuego / Tregua",
+    "examples": [
+      "A ceasefire is when two armies agree to stop fighting temporarily."
+    ],
+    "topic": "conflict and warfare",
+    "level": "C1",
+    "tags": ["events", "formal"]
+  },
+  {
+    "id": "cw-014",
+    "term": "Siege",
+    "type": "noun",
+    "definition": "When an army tries to take a city or building by surrounding it and stopping the food supply.",
+    "translation": "Asedio / Sitio",
+    "examples": [
+      "A siege is when an army tries to take a city or building by surrounding it and stopping the food supply."
+    ],
+    "topic": "conflict and warfare",
+    "level": "C1",
+    "tags": ["events", "military"]
+  },
+  {
+    "id": "cw-015",
+    "term": "Civil war",
+    "type": "noun",
+    "definition": "A war between groups of people in the same country.",
+    "translation": "Guerra civil",
+    "examples": [
+      "A civil war is a war between groups of people in the same country."
+    ],
+    "topic": "conflict and warfare",
+    "level": "C1",
+    "tags": ["events", "formal"]
+  },
+  {
+    "id": "cw-016",
+    "term": "Treaty",
+    "type": "noun",
+    "definition": "A formal agreement between two or more countries.",
+    "translation": "Tratado",
+    "examples": [
+      "A treaty is a formal agreement between two or more countries."
+    ],
+    "topic": "conflict and warfare",
+    "level": "C1",
+    "tags": ["events", "formal"]
+  },
+  {
+    "id": "cw-017",
+    "term": "Revolution",
+    "type": "noun",
+    "definition": "An attempt by a large number of people in a country to change their government.",
+    "translation": "Revolución",
+    "examples": [
+      "A revolution is an attempt by a large number of people in a country to change their government."
+    ],
+    "topic": "conflict and warfare",
+    "level": "C1",
+    "tags": ["events", "formal"]
+  },
+  {
+    "id": "cw-018",
+    "term": "Overthrow",
+    "type": "verb",
+    "definition": "To remove a government or leader from power using force.",
+    "translation": "Derrocar",
+    "examples": [
+      "The rebels overthrew the government."
+    ],
+    "topic": "conflict and warfare",
+    "level": "C1",
+    "tags": ["verbs", "formal"]
+  },
+  {
+    "id": "cw-019",
+    "term": "Break out",
+    "type": "verb",
+    "definition": "To start suddenly, usually used for wars, fighting, or fires.",
+    "translation": "Estallar / Desatarse",
+    "examples": [
+      "Fighting broke out between the rebels and the army.",
+      "The fire broke out at 3.00 in the morning."
+    ],
+    "topic": "conflict and warfare",
+    "level": "C1",
+    "tags": ["verbs", "phrasal verb"]
+  },
+  {
+    "id": "cw-020",
+    "term": "Shell",
+    "type": "verb",
+    "definition": "To fire missiles at a position.",
+    "translation": "Bombardear (con artillería)",
+    "examples": [
+      "The army shelled the rebel positions."
+    ],
+    "topic": "conflict and warfare",
+    "level": "C1",
+    "tags": ["verbs", "military"]
+  },
+  {
+    "id": "cw-021",
+    "term": "Retreat",
+    "type": "verb",
+    "definition": "To move back, away from the opposing army.",
+    "translation": "Retirarse",
+    "examples": [
+      "The rebels retreated.",
+      "The flood water took a long time to retreat from the streets."
+    ],
+    "topic": "conflict and warfare",
+    "level": "C1",
+    "tags": ["verbs", "military"]
+  },
+  {
+    "id": "cw-022",
+    "term": "Surrender",
+    "type": "verb",
+    "definition": "To admit that you have lost and want to stop fighting.",
+    "translation": "Rendirse",
+    "examples": [
+      "Some of the rebels surrendered.",
+      "The minister was arrested and forced to surrender his passport."
+    ],
+    "topic": "conflict and warfare",
+    "level": "C1",
+    "tags": ["verbs", "military", "formal"]
+  },
+  {
+    "id": "cw-023",
+    "term": "Blow up",
+    "type": "verb",
+    "definition": "To make something explode.",
+    "translation": "Volar (con explosivos) / Explotar",
+    "examples": [
+      "The rebels blew up the airport runway."
+    ],
+    "topic": "conflict and warfare",
+    "level": "C1",
+    "tags": ["verbs", "phrasal verb"]
+  },
+  {
+    "id": "cw-024",
+    "term": "Declare",
+    "type": "verb",
+    "definition": "To announce an intention to go to war.",
+    "translation": "Declarar",
+    "examples": [
+      "The government declared war on the rebels.",
+      "He declared that he was in love with her."
+    ],
+    "topic": "conflict and warfare",
+    "level": "C1",
+    "tags": ["verbs", "formal"]
+  },
+  {
+    "id": "cw-025",
+    "term": "Loot",
+    "type": "verb",
+    "definition": "To steal things from shops and buildings during a war or riot.",
+    "translation": "Saquear",
+    "examples": [
+      "Some rebels looted the city."
+    ],
+    "topic": "conflict and warfare",
+    "level": "C1",
+    "tags": ["verbs", "military", "negative"]
+  },
+  {
+    "id": "cw-026",
+    "term": "Capture",
+    "type": "verb",
+    "definition": "To take someone prisoner or to catch something.",
+    "translation": "Capturar",
+    "examples": [
+      "The army captured over 300 rebels.",
+      "The new princess has captured the imagination of the public."
+    ],
+    "topic": "conflict and warfare",
+    "level": "C1",
+    "tags": ["verbs", "military"]
+  },
+  {
+    "id": "cw-027",
+    "term": "Defeat",
+    "type": "verb",
+    "definition": "To beat someone in a fight, war, or competition.",
+    "translation": "Derrotar / Vencer",
+    "examples": [
+      "They finally defeated the rebels.",
+      "I read the instructions three times, but they completely defeated me."
+    ],
+    "topic": "conflict and warfare",
+    "level": "C1",
+    "tags": ["verbs", "military"]
+  },
+  {
+    "id": "cw-028",
+    "term": "Release",
+    "type": "verb",
+    "definition": "To let someone go or make something public.",
+    "translation": "Liberar / Emitir",
+    "examples": [
+      "The army released most of the rebel prisoners.",
+      "The police have released details of the accident."
+    ],
+    "topic": "conflict and warfare",
+    "level": "C1",
+    "tags": ["verbs", "formal"]
+  },
+  {
+    "id": "cw-029",
+    "term": "Execute",
+    "type": "verb",
+    "definition": "To kill someone as a punishment.",
+    "translation": "Ejecutar",
+    "examples": [
+      "They executed the rebel leader."
+    ],
+    "topic": "conflict and warfare",
+    "level": "C1",
+    "tags": ["verbs", "formal", "military"]
+  }
+]

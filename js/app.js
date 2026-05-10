@@ -17,6 +17,7 @@ const TOPICS_REGISTRY = [
   { id: 'time', label: 'Expressions with time', icon: '⏳', file: 'src/time.json' },
   { id: 'personality', label: 'Personality', icon: '🙃', file: 'src/personality.json' },
   { id: 'work', label: 'Work', icon: '⚒️', file: 'src/work.json' },
+  { id: 'conflict', label: 'Conflict & Warfare', icon: '🔫', file: 'src/conflict.json' },
   // { id: 'travel', label: 'Travel', icon: '✈️', file: 'src/travel.json' },
 ];
 
