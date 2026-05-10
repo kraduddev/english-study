@@ -58,6 +58,7 @@ export function showView(name) {
   const navBtn = document.querySelector(`.nav-btn[data-view="${name}"]`);
   if (navBtn) navBtn.classList.add('active');
 
+  if (name === 'dashboard') renderDashboard();
   if (name === 'stats') renderStats(allTopics);
 }
 
