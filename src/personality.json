@@ -1,0 +1,314 @@
+[
+  {
+    "id": "pers-001",
+    "term": "Resourceful",
+    "type": "adjective",
+    "definition": "Able to quickly and cleverly work out how to solve a problem.",
+    "translation": "Ingenioso / Resolutivo",
+    "examples": [
+      "He's quite resourceful. He can usually work out how to solve a problem. [1]"
+    ],
+    "topic": "personality",
+    "level": "C1",
+    "tags": ["adjectives", "positive"]
+  },
+  {
+    "id": "pers-002",
+    "term": "Thorough",
+    "type": "adjective",
+    "definition": "Executing something with great attention to detail.",
+    "translation": "Meticuloso / Exhaustivo",
+    "examples": [
+      "He's very thorough. Whatever part of a job he's doing, he does it with great attention to detail. [1]"
+    ],
+    "topic": "personality",
+    "level": "C1",
+    "tags": ["adjectives", "positive"]
+  },
+  {
+    "id": "pers-003",
+    "term": "Bright",
+    "type": "adjective",
+    "definition": "Intelligent and quick to learn.",
+    "translation": "Brillante / Inteligente",
+    "examples": [
+      "My nieces are both really bright. They get very good marks at school in all their subjects. [1]"
+    ],
+    "topic": "personality",
+    "level": "C1",
+    "tags": ["adjectives", "positive"]
+  },
+  {
+    "id": "pers-004",
+    "term": "Straightforward",
+    "type": "adjective",
+    "definition": "Honest, open, and saying just what one thinks.",
+    "translation": "Directo / Franco",
+    "examples": [
+      "She's such a straightforward person. She's honest and open and says just what she thinks. [1]"
+    ],
+    "topic": "personality",
+    "level": "C1",
+    "tags": ["adjectives", "positive"]
+  },
+  {
+    "id": "pers-005",
+    "term": "Determined",
+    "type": "adjective",
+    "definition": "Having made a firm decision and not letting anything stop you.",
+    "translation": "Decidido / Resuelto",
+    "examples": [
+      "She's very determined. Once she's decided to do something, nothing will stop her. [1]"
+    ],
+    "topic": "personality",
+    "level": "C1",
+    "tags": ["adjectives", "strong"]
+  },
+  {
+    "id": "pers-006",
+    "term": "Self-sufficient",
+    "type": "adjective",
+    "definition": "Never needing anyone else's help.",
+    "translation": "Autosuficiente / Independiente",
+    "examples": [
+      "He's very self-sufficient. He never needs anyone else's help. [1]"
+    ],
+    "topic": "personality",
+    "level": "C1",
+    "tags": ["adjectives", "positive"]
+  },
+  {
+    "id": "pers-007",
+    "term": "Sympathetic",
+    "type": "adjective",
+    "definition": "Showing care, understanding, and compassion for someone else's suffering.",
+    "translation": "Comprensivo / Empático",
+    "examples": [
+      "He's not very sympathetic. When I was ill last week, he didn't even phone me. [1]"
+    ],
+    "topic": "personality",
+    "level": "C1",
+    "tags": ["adjectives", "false friend"]
+  },
+  {
+    "id": "pers-008",
+    "term": "Conscientious",
+    "type": "adjective",
+    "definition": "Wishing to do what is right, working hard to make sure everything gets done.",
+    "translation": "Concienzudo / Aplicado",
+    "examples": [
+      "She is so conscientious! She worked all weekend to make sure she got everything done. [1]"
+    ],
+    "topic": "personality",
+    "level": "C1",
+    "tags": ["adjectives", "work"]
+  },
+  {
+    "id": "pers-009",
+    "term": "Gentle",
+    "type": "adjective",
+    "definition": "Calm, kind, and rarely getting angry.",
+    "translation": "Amable / Apacible",
+    "examples": [
+      "My sister's a very gentle person. She's calm and kind and she never gets angry. [1]"
+    ],
+    "topic": "personality",
+    "level": "C1",
+    "tags": ["adjectives", "positive"]
+  },
+  {
+    "id": "pers-010",
+    "term": "Steady",
+    "type": "adjective",
+    "definition": "Sensible and reliable.",
+    "translation": "Sensato / Formal / Estable",
+    "examples": [
+      "Her boyfriend is a steady kind of guy. He's sensible and she can really rely on him. [1]"
+    ],
+    "topic": "personality",
+    "level": "C1",
+    "tags": ["adjectives", "positive"]
+  },
+  {
+    "id": "pers-011",
+    "term": "Spontaneous",
+    "type": "adjective",
+    "definition": "Able to act on sudden decisions without planning.",
+    "translation": "Espontáneo",
+    "examples": [
+      "He's very spontaneous. He can suddenly decide to go to Paris in the morning and in the evening he's there! [1]"
+    ],
+    "topic": "personality",
+    "level": "C1",
+    "tags": ["adjectives", "positive"]
+  },
+  {
+    "id": "pers-012",
+    "term": "Sarcastic",
+    "type": "adjective",
+    "definition": "Using irony to mock or convey contempt, often making people feel small.",
+    "translation": "Sarcástico",
+    "examples": [
+      "Our maths teacher used to be so sarcastic. She loved making comments that made us feel small. [1]"
+    ],
+    "topic": "personality",
+    "level": "C1",
+    "tags": ["adjectives", "negative"]
+  },
+  {
+    "id": "pers-013",
+    "term": "Tend to",
+    "type": "verb",
+    "definition": "To regularly or frequently behave in a particular way.",
+    "translation": "Tender a / Soler",
+    "examples": [
+      "My father tends to avoid conflict – he never argues with my mother, he just leaves the room. [1]"
+    ],
+    "topic": "personality",
+    "level": "C1",
+    "tags": ["phrases", "behavior"]
+  },
+  {
+    "id": "pers-014",
+    "term": "On the surface",
+    "type": "phrase",
+    "definition": "What appears to be true or visible from the outside.",
+    "translation": "A primera vista / Superficialmente",
+    "examples": [
+      "On the surface he seems self-confident, but deep down he's quite insecure. [1]"
+    ],
+    "topic": "personality",
+    "level": "C1",
+    "tags": ["phrases", "idiom"]
+  },
+  {
+    "id": "pers-015",
+    "term": "Deep down",
+    "type": "phrase",
+    "definition": "What a person really feels or is like inside, contrary to their outward appearance.",
+    "translation": "En el fondo",
+    "examples": [
+      "On the surface he seems self-confident, but deep down he's quite insecure. [1]"
+    ],
+    "topic": "personality",
+    "level": "C1",
+    "tags": ["phrases", "idiom"]
+  },
+  {
+    "id": "pers-016",
+    "term": "Come across as",
+    "type": "phrase",
+    "definition": "To make a particular impression on others.",
+    "translation": "Dar la impresión de / Parecer",
+    "examples": [
+      "He comes across as quite sarcastic, but in fact he's really friendly. [1]"
+    ],
+    "topic": "personality",
+    "level": "C1",
+    "tags": ["phrases", "colloquial"]
+  },
+  {
+    "id": "pers-017",
+    "term": "A heart of gold",
+    "type": "idiom",
+    "definition": "To be extremely kind, gentle, and generous.",
+    "translation": "Un corazón de oro",
+    "examples": [
+      "My dad's got a heart of gold. He's the gentlest person I know. [1]"
+    ],
+    "topic": "personality",
+    "level": "C1",
+    "tags": ["idioms", "positive"]
+  },
+  {
+    "id": "pers-018",
+    "term": "Down to earth",
+    "type": "idiom",
+    "definition": "To be very sensible and practical.",
+    "translation": "Con los pies en la tierra",
+    "examples": [
+      "My brother-in-law is very down to earth. He's very sensible and practical. [1]"
+    ],
+    "topic": "personality",
+    "level": "C1",
+    "tags": ["idioms", "positive"]
+  },
+  {
+    "id": "pers-019",
+    "term": "A cold fish",
+    "type": "idiom",
+    "definition": "Someone who is unfriendly and never shows their emotions.",
+    "translation": "Alguien frío / Insensible",
+    "examples": [
+      "My boss is a bit of a cold fish. She's unfriendly and she never shows her emotions. [1]"
+    ],
+    "topic": "personality",
+    "level": "C1",
+    "tags": ["idioms", "negative"]
+  },
+  {
+    "id": "pers-020",
+    "term": "A real pain in the neck",
+    "type": "idiom",
+    "definition": "Someone who is very annoying.",
+    "translation": "Un pesado / Un dolor de cabeza",
+    "examples": [
+      "My brother's a real pain in the neck. He's so annoying – he's always taking my things. [1]"
+    ],
+    "topic": "personality",
+    "level": "C1",
+    "tags": ["idioms", "informal", "negative"]
+  },
+  {
+    "id": "pers-021",
+    "term": "A soft touch",
+    "type": "idiom",
+    "definition": "A person who is easily persuaded or manipulated, especially to give money.",
+    "translation": "Un trozo de pan / Alguien fácil de convencer",
+    "examples": [
+      "My mum's a soft touch. I can always persuade her to give me extra pocket money. [1]"
+    ],
+    "topic": "personality",
+    "level": "C1",
+    "tags": ["idioms", "informal"]
+  },
+  {
+    "id": "pers-022",
+    "term": "Full of herself",
+    "type": "idiom",
+    "definition": "Thinking that you are the most important person.",
+    "translation": "Engreída / Llena de sí misma",
+    "examples": [
+      "I know I shouldn't criticise your family, but your sister is really full of herself. She thinks she's the most important member of the family. [1]"
+    ],
+    "topic": "personality",
+    "level": "C1",
+    "tags": ["idioms", "negative"]
+  },
+  {
+    "id": "pers-023",
+    "term": "Wouldn't hurt a fly",
+    "type": "idiom",
+    "definition": "Incredibly kind to everyone and not aggressive at all.",
+    "translation": "Incapaz de matar a una mosca",
+    "examples": [
+      "He comes across as aggressive, but in fact he wouldn't hurt a fly. He's incredibly kind to everyone he meets. [1]"
+    ],
+    "topic": "personality",
+    "level": "C1",
+    "tags": ["idioms", "positive"]
+  },
+  {
+    "id": "pers-024",
+    "term": "The life and soul of the party",
+    "type": "idiom",
+    "definition": "Someone who is very energetic and funny, great at telling jokes and making people laugh.",
+    "translation": "El alma de la fiesta",
+    "examples": [
+      "My cousin's always the life and soul of the party. She's great at telling jokes and making people laugh. [1]"
+    ],
+    "topic": "personality",
+    "level": "C1",
+    "tags": ["idioms", "positive"]
+  }
+]
