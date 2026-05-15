@@ -1,0 +1,197 @@
+[
+  {
+    "id": "adv-001",
+    "term": "At a crossroads",
+    "type": "phrase",
+    "definition": "To be at a stage in your life when you have to make an important decision.",
+    "translation": "En una encrucijada / En un momento decisivo",
+    "examples": [
+      "I'm at a bit of a crossroads; any insights on how to proceed? [1]"
+    ],
+    "topic": "advice",
+    "level": "C1",
+    "tags": ["asking for advice", "idiom"]
+  },
+  {
+    "id": "adv-002",
+    "term": "Seek counsel",
+    "type": "verb phrase",
+    "definition": "To ask for professional or formal advice.",
+    "translation": "Buscar asesoramiento / Pedir consejo",
+    "examples": [
+      "I'm seeking counsel on how best to navigate this situation. [1]"
+    ],
+    "topic": "advice",
+    "level": "C1",
+    "tags": ["asking for advice", "formal"]
+  },
+  {
+    "id": "adv-003",
+    "term": "In someone's shoes",
+    "type": "phrase",
+    "definition": "Imagining oneself in another person's situation.",
+    "translation": "En el lugar de otro / En los zapatos de alguien",
+    "examples": [
+      "If you were in my shoes, what steps would you take? [1]"
+    ],
+    "topic": "advice",
+    "level": "C1",
+    "tags": ["asking for advice", "idiom"]
+  },
+  {
+    "id": "adv-004",
+    "term": "Prudent",
+    "type": "adjective",
+    "definition": "Acting with or showing care and thought for the future.",
+    "translation": "Prudente / Sensato",
+    "examples": [
+      "It might be prudent to consider... [2]"
+    ],
+    "topic": "advice",
+    "level": "C1",
+    "tags": ["giving advice", "formal"]
+  },
+  {
+    "id": "adv-005",
+    "term": "Worth a try",
+    "type": "phrase",
+    "definition": "Used to say that something is a good idea to attempt, even if it might not succeed.",
+    "translation": "Vale la pena intentarlo",
+    "examples": [
+      "... is worth a try. [3]"
+    ],
+    "topic": "advice",
+    "level": "B2",
+    "tags": ["giving advice", "colloquial"]
+  },
+  {
+    "id": "adv-006",
+    "term": "Old wives' tale",
+    "type": "noun phrase",
+    "definition": "A traditional belief or advice that is usually considered to be unscientific or incorrect.",
+    "translation": "Cuento de viejas / Mito popular",
+    "examples": [
+      "It might be an old wives' tale, but ... [4]"
+    ],
+    "topic": "advice",
+    "level": "C1",
+    "tags": ["giving advice", "idiom"]
+  },
+  {
+    "id": "adv-007",
+    "term": "Have no choice but to",
+    "type": "phrase",
+    "definition": "To have no other option or alternative but to do something.",
+    "translation": "No tener más remedio que",
+    "examples": [
+      "You have no choice but to ... [3]"
+    ],
+    "topic": "advice",
+    "level": "C1",
+    "tags": ["giving advice", "strong"]
+  },
+  {
+    "id": "adv-008",
+    "term": "Can't recommend strongly enough",
+    "type": "phrase",
+    "definition": "To highly praise or endorse something as being excellent.",
+    "translation": "Recomendar encarecidamente / No poder recomendarlo lo suficiente",
+    "examples": [
+      "I can't recommend ... strongly enough. [4]"
+    ],
+    "topic": "advice",
+    "level": "C1",
+    "tags": ["giving advice", "enthusiastic"]
+  },
+  {
+    "id": "adv-009",
+    "term": "Given the circumstances",
+    "type": "phrase",
+    "definition": "Taking the specific current situation into account.",
+    "translation": "Dadas las circunstancias",
+    "examples": [
+      "Given the circumstances, what course of action would you recommend? [1]"
+    ],
+    "topic": "advice",
+    "level": "C1",
+    "tags": ["asking for advice", "formal"]
+  },
+  {
+    "id": "adv-010",
+    "term": "Bear in mind",
+    "type": "verb phrase",
+    "definition": "To remember a piece of information when making a decision or thinking about a matter.",
+    "translation": "Tener en cuenta / Recordar",
+    "examples": [
+      "It's worth bearing in mind that... [2]"
+    ],
+    "topic": "advice",
+    "level": "C1",
+    "tags": ["giving advice", "formal"]
+  },
+  {
+    "id": "adv-011",
+    "term": "Course of action",
+    "type": "noun phrase",
+    "definition": "A procedure adopted to deal with a situation.",
+    "translation": "Plan de acción / Curso de acción",
+    "examples": [
+      "Given the circumstances, what course of action would you recommend? [1]"
+    ],
+    "topic": "advice",
+    "level": "C1",
+    "tags": ["asking for advice", "formal"]
+  },
+  {
+    "id": "adv-012",
+    "term": "Navigate a situation",
+    "type": "verb phrase",
+    "definition": "To find a way through a difficult or complicated situation.",
+    "translation": "Manejar / Sortear una situación",
+    "examples": [
+      "I'm seeking counsel on how best to navigate this situation. [1]"
+    ],
+    "topic": "advice",
+    "level": "C1",
+    "tags": ["asking for advice", "formal"]
+  },
+  {
+    "id": "adv-013",
+    "term": "Struggle with",
+    "type": "verb",
+    "definition": "To experience difficulty and make a very great effort in order to do something.",
+    "translation": "Tener dificultades con / Luchar con",
+    "examples": [
+      "I'm struggling with [issue]. Any thoughts on how to approach it? [5]"
+    ],
+    "topic": "advice",
+    "level": "B2",
+    "tags": ["asking for advice", "everyday"]
+  },
+  {
+    "id": "adv-014",
+    "term": "Insights",
+    "type": "noun",
+    "definition": "A deep understanding of a person or thing, or valuable advice based on it.",
+    "translation": "Perspectivas / Ideas / Reflexiones",
+    "examples": [
+      "I'm at a bit of a crossroads; any insights on how to proceed? [1]"
+    ],
+    "topic": "advice",
+    "level": "C1",
+    "tags": ["asking for advice", "formal"]
+  },
+  {
+    "id": "adv-015",
+    "term": "From a strategic standpoint",
+    "type": "phrase",
+    "definition": "Looking at a situation with a long-term or tactical plan in mind.",
+    "translation": "Desde un punto de vista estratégico",
+    "examples": [
+      "From a strategic standpoint, I recommend... [2]"
+    ],
+    "topic": "advice",
+    "level": "C1",
+    "tags": ["giving advice", "business", "formal"]
+  }
+]
