@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>EOI – English Flashcards</title>
+  <title>EOI – English Study Hub</title>
   <link rel="stylesheet" href="style.css" />
 </head>
 <body>
@@ -12,10 +12,11 @@
   <nav class="navbar">
     <div class="nav-brand" id="nav-brand">
       <span class="nav-logo">🇬🇧</span>
-      <span>EOI Flashcards</span>
+      <span>EOI Study Hub</span>
     </div>
     <div class="nav-links">
-      <button class="nav-btn active" data-view="dashboard">Dashboard</button>
+      <button class="nav-btn active" data-view="dashboard">Vocabulario</button>
+      <button class="nav-btn" data-view="writing">Writing C1</button>
       <button class="nav-btn" data-view="stats">Estadísticas</button>
     </div>
   </nav>
@@ -28,6 +29,42 @@
         <p class="subtitle">Selecciona un tema y pon a prueba tu vocabulario</p>
       </header>
       <div id="topic-grid" class="topic-grid"></div>
+    </div>
+  </section>
+
+  <!-- ===== WRITING ===== -->
+  <section id="view-writing" class="view hidden">
+    <div class="container">
+      <header class="page-header">
+        <div class="section-eyebrow">WRITING C1</div>
+        <h1>Dashboard de writing skills</h1>
+        <p class="subtitle">Repasa tipos de writing por familias, filtra por categoría y abre la infografía que necesites antes del examen.</p>
+      </header>
+
+      <div class="writing-toolbar">
+        <label class="writing-field">
+          <span>Buscar por nombre o tag</span>
+          <input id="writing-search" type="search" placeholder="Ej. essay, formal, review, connectors..." autocomplete="off" />
+        </label>
+
+        <label class="writing-field">
+          <span>Filtrar por categoría</span>
+          <select id="writing-category-filter">
+            <option value="all">Todas las categorías</option>
+          </select>
+        </label>
+      </div>
+
+      <div id="writing-results-meta" class="writing-results-meta"></div>
+      <div id="writing-category-groups" class="writing-category-groups"></div>
+    </div>
+  </section>
+
+  <!-- ===== WRITING DETAIL ===== -->
+  <section id="view-writing-detail" class="view hidden">
+    <div class="container">
+      <button class="btn-back" id="btn-writing-back">← Volver a Writing</button>
+      <div id="writing-detail-content" class="writing-detail-content"></div>
     </div>
   </section>
 
@@ -133,7 +170,7 @@
     </div>
   </section>
 
-  <script type="module" src="js/app.js?v=2"></script>
+  <script type="module" src="js/app.js?v=5"></script>
 </body>
 </html>
 

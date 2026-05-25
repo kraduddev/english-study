@@ -1,0 +1,209 @@
+{
+  "categories": [
+    {
+      "id": "essays-argumentativos",
+      "title": "Essays argumentativos",
+      "description": "Textos formales centrados en opinión, argumentos, viewpoints, contraste y conclusión.",
+      "tags": ["formal", "argumentation", "opinion", "contrast", "conclusion"],
+      "color": "#8b5cf6"
+    },
+    {
+      "id": "cartas-emails-formales",
+      "title": "Cartas y emails formales",
+      "description": "Textos funcionales con saludo formal, motivo inicial claro, tono educado, estructura por párrafos y cierre formal.",
+      "tags": ["formal", "letter", "email", "request", "polite tone"],
+      "color": "#06b6d4"
+    },
+    {
+      "id": "informes-propuestas-datos",
+      "title": "Informes, propuestas y datos",
+      "description": "Textos formales, organizados y objetivos, con headings, análisis de información, datos o recomendaciones.",
+      "tags": ["formal", "headings", "analysis", "data", "recommendations"],
+      "color": "#22c55e"
+    },
+    {
+      "id": "publicacion-online-revista",
+      "title": "Publicación online o revista",
+      "description": "Textos más flexibles, cercanos y orientados al lector. Buscan informar, opinar o participar en una conversación.",
+      "tags": ["informal", "reader engagement", "personal experience", "online writing"],
+      "color": "#f59e0b"
+    },
+    {
+      "id": "narrativo-descriptivos",
+      "title": "Narrativo-descriptivos",
+      "description": "Textos centrados en contar, describir, crear escenas, presentar personajes o retratar personas.",
+      "tags": ["storytelling", "description", "characters", "scene", "show don't tell"],
+      "color": "#ec4899"
+    },
+    {
+      "id": "valoracion-recomendacion",
+      "title": "Valoración y recomendación",
+      "description": "Texto que evalúa una película, libro, producto, obra, concierto o servicio, combinando descripción, opinión y recomendación.",
+      "tags": ["evaluation", "recommendation", "adjectives", "opinion"],
+      "color": "#f97316"
+    },
+    {
+      "id": "transversal",
+      "title": "Transversal",
+      "description": "Habilidad común a todos los writings. Sirve para conectar ideas, ordenar párrafos, contrastar, añadir ejemplos y cerrar textos.",
+      "tags": ["connectors", "cohesion", "discourse markers", "structure"],
+      "color": "#64748b"
+    }
+  ],
+  "skills": [
+    {
+      "id": "article-writing",
+      "title": "Article writing",
+      "categoryId": "publicacion-online-revista",
+      "category": "Publicación online o revista",
+      "shortDescription": "Texto para revista, blog, periódico o web. Busca informar, entretener y enganchar al lector.",
+      "tags": ["article", "informal", "reader engagement", "opinion"],
+      "infographicUrl": "src/writting/01_article.png"
+    },
+    {
+      "id": "profile-article",
+      "title": "Profile article",
+      "categoryId": "narrativo-descriptivos",
+      "category": "Narrativo-descriptivos",
+      "shortDescription": "Artículo centrado en una persona o grupo, explorando trayectoria, personalidad y relevancia.",
+      "tags": ["profile", "description", "quotes", "background"],
+      "infographicUrl": "src/writting/02_profile_article.png"
+    },
+    {
+      "id": "blog-post",
+      "title": "Blog post",
+      "categoryId": "publicacion-online-revista",
+      "category": "Publicación online o revista",
+      "shortDescription": "Entrada informal, personal y cercana, basada en experiencias, reflexiones, consejos o recomendaciones.",
+      "tags": ["blog", "informal", "personal experience", "reader questions"],
+      "infographicUrl": "src/writting/03_blog_post.png"
+    },
+    {
+      "id": "forum-post",
+      "title": "Forum post",
+      "categoryId": "publicacion-online-revista",
+      "category": "Publicación online o revista",
+      "shortDescription": "Intervención en un foro online, conversacional pero organizada y respetuosa.",
+      "tags": ["forum", "casual", "discussion", "short paragraphs"],
+      "infographicUrl": "src/writting/04_forum_post.png"
+    },
+    {
+      "id": "narrative-writing",
+      "title": "Narrative writing",
+      "categoryId": "narrativo-descriptivos",
+      "category": "Narrativo-descriptivos",
+      "shortDescription": "Relato o historia con personajes, setting, conflicto, desarrollo y resolución.",
+      "tags": ["narrative", "plot", "characters", "conflict", "sensory language"],
+      "infographicUrl": "src/writting/05_narrative.png"
+    },
+    {
+      "id": "report",
+      "title": "Report",
+      "categoryId": "informes-propuestas-datos",
+      "category": "Informes, propuestas y datos",
+      "shortDescription": "Texto formal, organizado y objetivo que presenta información, analiza una situación y suele acabar con recomendaciones.",
+      "tags": ["report", "formal", "headings", "recommendations"],
+      "infographicUrl": "src/writting/06_report.png"
+    },
+    {
+      "id": "proposal",
+      "title": "Proposal",
+      "categoryId": "informes-propuestas-datos",
+      "category": "Informes, propuestas y datos",
+      "shortDescription": "Texto formal o semi-formal que describe una situación y propone mejoras concretas.",
+      "tags": ["proposal", "recommendations", "persuasion", "headings"],
+      "infographicUrl": "src/writting/07_proposal.png"
+    },
+    {
+      "id": "formal-email-formal-letter",
+      "title": "Formal email / formal letter",
+      "categoryId": "cartas-emails-formales",
+      "category": "Cartas y emails formales",
+      "shortDescription": "Comunicación formal para pedir información, responder, solicitar algo, disculparse, recomendar o informar.",
+      "tags": ["formal", "email", "letter", "request"],
+      "infographicUrl": "src/writting/08_formal_email.png"
+    },
+    {
+      "id": "complaint-letter",
+      "title": "Complaint letter",
+      "categoryId": "cartas-emails-formales",
+      "category": "Cartas y emails formales",
+      "shortDescription": "Carta formal para expresar insatisfacción y pedir una solución.",
+      "tags": ["complaint", "formal", "solution", "polite tone"],
+      "infographicUrl": "src/writting/09_complaint_letter.png"
+    },
+    {
+      "id": "persuasive-letter",
+      "title": "Persuasive letter",
+      "categoryId": "cartas-emails-formales",
+      "category": "Cartas y emails formales",
+      "shortDescription": "Carta formal cuyo objetivo es convencer al lector para que apoye una causa, tome una decisión o actúe.",
+      "tags": ["persuasive", "formal", "call to action", "arguments"],
+      "infographicUrl": "src/writting/10_persusasive_letter.png"
+    },
+    {
+      "id": "cover-letter-application-email",
+      "title": "Cover letter / application email",
+      "categoryId": "cartas-emails-formales",
+      "category": "Cartas y emails formales",
+      "shortDescription": "Carta o email que acompaña a un CV para solicitar un puesto, curso o candidatura.",
+      "tags": ["application", "CV", "skills", "experience"],
+      "infographicUrl": "src/writting/11_cover_letter.png"
+    },
+    {
+      "id": "review",
+      "title": "Review",
+      "categoryId": "valoracion-recomendacion",
+      "category": "Valoración y recomendación",
+      "shortDescription": "Texto que evalúa una película, libro, obra, concierto, producto o servicio.",
+      "tags": ["review", "evaluation", "recommendation", "adjectives"],
+      "infographicUrl": "src/writting/12_review.png"
+    },
+    {
+      "id": "opinion-essay",
+      "title": "Opinion essay",
+      "categoryId": "essays-argumentativos",
+      "category": "Essays argumentativos",
+      "shortDescription": "Ensayo formal donde se expresa una opinión clara y se apoya con razones y ejemplos.",
+      "tags": ["essay", "opinion", "formal", "arguments"],
+      "infographicUrl": "src/writting/13_opinion_essay.png"
+    },
+    {
+      "id": "balanced-opinion-essay",
+      "title": "Balanced opinion essay",
+      "categoryId": "essays-argumentativos",
+      "category": "Essays argumentativos",
+      "shortDescription": "Ensayo que presenta diferentes puntos de vista de forma equilibrada antes de llegar a una opinión final.",
+      "tags": ["essay", "balanced", "viewpoints", "formal"],
+      "infographicUrl": "src/writting/14_balanced_opinion_essay.png"
+    },
+    {
+      "id": "for-and-against-essay",
+      "title": "For and against essay / Discursive essay",
+      "categoryId": "essays-argumentativos",
+      "category": "Essays argumentativos",
+      "shortDescription": "Composición que analiza argumentos a favor y en contra de un tema.",
+      "tags": ["essay", "for and against", "pros and cons", "contrast"],
+      "infographicUrl": "src/writting/15_for_against.png"
+    },
+    {
+      "id": "data-description",
+      "title": "Data description",
+      "categoryId": "informes-propuestas-datos",
+      "category": "Informes, propuestas y datos",
+      "shortDescription": "Descripción de gráficos, tablas o diagramas, explicando tendencias, comparaciones y datos relevantes.",
+      "tags": ["data", "charts", "trends", "comparison"],
+      "infographicUrl": "src/writting/16_data_description.png"
+    },
+    {
+      "id": "linking-words-discourse-markers",
+      "title": "Linking words and discourse markers",
+      "categoryId": "transversal",
+      "category": "Transversal",
+      "shortDescription": "Conectores y marcadores discursivos para dar cohesión y claridad a cualquier writing.",
+      "tags": ["connectors", "cohesion", "discourse markers", "structure"],
+      "infographicUrl": "src/writting/17_linking_words.png"
+    }
+  ]
+}
+

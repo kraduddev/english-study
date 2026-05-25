@@ -102,7 +102,7 @@ function renderTopics(allTopics) {
                 </td>
                 <td>
                   <div class="mini-bar">
-                    <div class="mini-bar-fill" style="width:${pct ?? 0}%"></div>
+                    <div class="mini-bar-fill" style="--mini-progress:${pct ?? 0}%"></div>
                   </div>
                 </td>
               </tr>

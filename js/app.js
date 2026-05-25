@@ -8,8 +8,9 @@
 
 import { startStudySession } from './study.js';
 import { renderStats }        from './stats.js';
+import { initWriting, renderWritingDashboard, renderWritingDetail } from './writing.js';
 
-const BUILD_MARKER = 'b710882-time-topic';
+const BUILD_MARKER = 'writing-dashboard-v1';
 
 /* ─── Registro de topics ──────────────────────────────────── */
 const TOPICS_REGISTRY = [
@@ -49,6 +50,10 @@ async function loadTopics() {
 }
 
 /* ─── Router ──────────────────────────────────────────────── */
+function getNavView(name) {
+  return name.startsWith('writing') ? 'writing' : name;
+}
+
 export function showView(name) {
   document.querySelectorAll('.view').forEach(v => {
     v.classList.remove('active');
@@ -59,11 +64,13 @@ export function showView(name) {
   const view = document.getElementById(`view-${name}`);
   if (view) { view.classList.remove('hidden'); view.classList.add('active'); }
 
-  const navBtn = document.querySelector(`.nav-btn[data-view="${name}"]`);
+  const navBtn = document.querySelector(`.nav-btn[data-view="${getNavView(name)}"]`);
   if (navBtn) navBtn.classList.add('active');
 
   if (name === 'dashboard') renderDashboard();
   if (name === 'stats') renderStats(allTopics);
+  if (name === 'writing') renderWritingDashboard();
+  if (name === 'writing-detail') renderWritingDetail();
 }
 
 /* ─── Dashboard ───────────────────────────────────────────── */
@@ -87,7 +94,7 @@ function renderDashboard() {
           <span class="topic-pct">${pct !== null ? pct + '%' : ''}</span>
         </div>
         <div class="topic-bar">
-          <div class="topic-bar-fill" style="width:${pct ?? 0}%"></div>
+          <div class="topic-bar-fill" style="--topic-progress:${pct ?? 0}%"></div>
         </div>
       </div>
     `;
@@ -155,6 +162,7 @@ function openSessionModal(meta, cards) {
 async function init() {
   console.info('[EOI build]', BUILD_MARKER);
   await loadTopics();
+  await initWriting();
   renderDashboard();
 
   // Nav buttons
